@@ -6,7 +6,7 @@ Summary:	FreeRADIUS Client framework
 Summary(pl.UTF-8):	Szkielet klienta FreeRADIUS
 Name:		freeradius-client
 Version:	1.1.7
-Release:	1
+Release:	2
 License:	BSD
 Group:		Applications/Networking
 Source0:	ftp://ftp.freeradius.org/pub/radius/%{name}-%{version}.tar.gz
